@@ -3,16 +3,6 @@
 </h1>
 <h3 align="center">Student at the University of Applied Science in Bern</h3>
 
-
-<div align="center"> 
-  <a href="thanuan.aiyaduraiiyer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a> 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <br> 
 
 <div align="center">
